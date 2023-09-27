@@ -1,4 +1,4 @@
-# Assignment3
+# Assignment4
 
 # Instructions
 
@@ -29,7 +29,15 @@
    
    s.t.          x = K(w)
 
-   Define the piecewise-linear function which maps (v1,v2)->(w_opt, x_opt). 
+   a) Is the objective function for this problem convex?
+   
+   b) Is the set of (x,w) satisfying the constraint convex?
+   
+   c) Do there exist any values of v1,v2 such that locally optimal solutions to this problem
+         are not globally optimal solutions? If so, find one such pair (v1,v2,w,x).
+   
+   d) Define the piecewise-linear function which maps (v1,v2)->(w_opt, x_opt) (where w_opt and x_opt) are the set of all local optimizers.
+   
 
 
 # Murty book
