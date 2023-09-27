@@ -1,4 +1,4 @@
-module Assignment3
+module Assignment4
 
 using LinearAlgebra
 
@@ -6,4 +6,4 @@ include("solve_lcp.jl")
 
 export solve_lcp
 
-end # module Assignment3
+end # module Assignment4
